@@ -29,3 +29,5 @@ OpenCV 2.4.10
 Python 3.6(Spyder)
 
 Arduino - Sketch
+
+# eyeneckhelper.py파일은 테스트하는 동안 시간을 단축시키기 위해 1분이 아닌 10초동안 눈 깜박임을 측정하는 코드입니다.
